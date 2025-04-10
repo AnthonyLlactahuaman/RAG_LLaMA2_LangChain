@@ -34,8 +34,8 @@ Este proyecto te permite **hacer preguntas en lenguaje natural sobre documentos 
 ### 1. 🔽 Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/pdf-chatbot-llama2.git
-cd pdf-chatbot-llama2
+cd [ruta de carpeta donde se quiere clonar]
+git clone https://github.com/AnthonyLlactahuaman/RAG_LLaMA2_LangChain.git
 ```
 
 ### 2. 🐍 Crea un entorno virtual
